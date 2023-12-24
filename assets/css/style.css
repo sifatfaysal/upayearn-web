@@ -807,6 +807,7 @@ p {
 }
 .hero-area {
 	position: relative;
+	background: #1d2124;
 }
 .hero-area.bg_cover {
 	background-position: center bottom;
@@ -2578,6 +2579,7 @@ p {
 .footer-area {
 	padding-top: 210px;
 	padding-bottom: 113px;
+	background: #1b1e21;
 }
 .footer-area .copyright {
 	font-size: 12px;
@@ -2741,3 +2743,21 @@ p {
 	background-color: #ffc000;
 }
 /*# sourceMappingURL=style.css.map */
+
+.pricing__plan{
+	margin-top: 600px;
+	margin-bottom: 100px;
+}
+
+#scrollToTopBtn {
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	display: none;
+	background-color: #5a2083;
+	color: #fff;
+	border: none;
+	border-radius: 5px;
+	padding: 10px 15px;
+	cursor: pointer;
+}
