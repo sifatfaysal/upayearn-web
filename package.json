@@ -1,0 +1,14 @@
+{
+  "name": "u-pay-earn-landing-page",
+  "version": "1.0.0",
+  "description": "upayearn-web",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "upayearn"
+  ],
+  "author": "",
+  "license": "ISC"
+}
